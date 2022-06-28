@@ -1,1 +1,1 @@
-include ':fetch2', ':fetch2core', ":fetch2rx"
+include ':fetch2core', ":fetch2", ":fetch2rx"
